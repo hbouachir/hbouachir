@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Hamza Bouahcir</h1>
+<h1 align="center">Hi 👋, I'm Hamza Bouachir</h1>
 <h3 align="center">A passionate sofwtare developer from Tunisia</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hbouachir&label=Profile%20views&color=0e75b6&style=flat" alt="hbouachir" /> </p>
